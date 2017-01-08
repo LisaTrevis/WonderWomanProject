@@ -1,0 +1,17 @@
+.blue {
+	color: blue;
+	font-size: 50px;
+}
+
+.new {
+	background-color: red;
+	width: 30%;
+	border: dashed;
+}
+
+.left {
+	width: 30%;
+	position: absolute;
+	float: left;
+}
+
